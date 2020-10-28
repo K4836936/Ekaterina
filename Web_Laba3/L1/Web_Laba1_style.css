@@ -1,0 +1,21 @@
+body {
+	background: moccasin;
+}
+p {
+	font-size: 150%;
+	padding-left: 40px;
+}
+h1 {
+	color: crimson;
+  	font-size: 200%;
+  	font-family:Comic Sans MS, Comic Sans, cursive;
+  	text-align: center;
+}
+li {
+	font-size: 120%;
+	color: rgb(139, 0, 139);
+}
+.column {
+        float: left;
+        width: 50%;
+    }

@@ -1,0 +1,14 @@
+{
+  "name": "web_laba3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Laba3.js",
+  "scripts": {
+    "test": "node Laba3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
